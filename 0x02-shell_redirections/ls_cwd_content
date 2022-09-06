@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 emminex emminex 4096 Sep  6 04:06 .
+drwxrwxr-x 6 emminex emminex 4096 Sep  6 02:43 ..
+-rwxrw-r-- 1 emminex emminex   30 Sep  6 02:36 0-hello_world
+-rwxrw-r-- 1 emminex emminex   21 Sep  6 02:59 1-confused_smiley
+-rwxrw-r-- 1 emminex emminex   28 Sep  6 03:04 2-hellofile
+-rwxrw-r-- 1 emminex emminex   39 Sep  6 03:18 3-twofiles
+-rwxrw-r-- 1 emminex emminex   29 Sep  6 03:22 4-lastlines
+-rwxrw-r-- 1 emminex emminex   29 Sep  6 03:26 5-firstlines
+-rwxrw-r-- 1 emminex emminex   40 Sep  6 03:40 6-third_line
+-rwxrw-r-- 1 emminex emminex   75 Sep  6 04:03 7-file
+-rwxrw-r-- 1 emminex emminex   36 Sep  6 04:06 8-cwd_state
+-rw-rw-r-- 1 emminex emminex    8 Sep  6 03:00 file
+-rw-rw-r-- 1 emminex emminex   21 Sep  6 03:35 iacta
+-rw-rw-r-- 1 emminex emminex    0 Sep  6 04:06 ls_cwd_content
+-rw-rw-r-- 1 emminex emminex   53 Sep  6 02:41 README.md
